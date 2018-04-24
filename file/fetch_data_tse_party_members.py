@@ -4,6 +4,8 @@ The first objective with this data is to obtain a list of members of parties in 
 In july 2017, the data available in TSE website contained information about membership and disfellowship in brazilian parties of each state.
 The data is available in csv format. On TSE's website, you have to filter choosing party and state.
 The csv files from TSE contain headers. All the csv files present the same header, which we have translated below, so more people can access and reuse the code of Serenata Project.
+
+with @HugoLnx and @jtemporal
 """
 
 import pandas as pd
